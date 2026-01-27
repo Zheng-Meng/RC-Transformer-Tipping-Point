@@ -1,2 +1,7 @@
-# RC_Transformer_Tipping_Point
-Codes for paper "Can transformers predict system collapse in dynamical systems?", which is submitted to PRResearch
+<h1 align="center">Can transformers predict system collapse in dynamical systems?</h1>
+
+<p align="center">
+<img src='images/rc_transformer_tipping.png' width='700'>
+</p>
+
+
