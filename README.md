@@ -66,4 +66,11 @@ Run scripts under `RC/System_*` (e.g. `FoodChain_STP_10_train.m`, `FoodChain_STP
 
 ## Citation
 
-If you use this code, please cite the publication associated with this repository and figure.
+```
+@article{zhai2026can,
+  title={Can Transformers predict system collapse in dynamical systems?},
+  author={Zhai, Zheng-Meng and Grebogi, Celso and Lai, Ying-Cheng},
+  journal={arXiv preprint arXiv:2605.04024},
+  year={2026}
+}
+```
